@@ -3,11 +3,15 @@
     <pages>
         <page name='Untitled Page'/>
         <page name='Renamed'/>
-        <page name='Original'/>
-        <page name='Defunctionalized'/>
-        <page name='Refactored'/>
-        <page name='Refactored and Renamed'/>
-        <page name='Type-Erasure'/>
-        <page name='Removing Protocol'/>
+        <page name='1 - Original'/>
+        <page name='2 - Defunctionalized'/>
+        <page name='3 - Refactored'/>
+        <page name='4 - Refactored and Renamed'/>
+        <page name='5 - Type-Erasure'/>
+        <page name='6 - Removing Protocol'/>
+        <page name='Without Separate Parse'/>
+        <page name='Defunctionalize Callback'/>
+        <page name='Defunctionalize Callback 2'/>
+        <page name='Defunctionalize Callback 3'/>
     </pages>
 </playground>
